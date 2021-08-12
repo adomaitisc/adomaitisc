@@ -1,15 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### Hi there 👋, I am Cauã.
+#### You can refer to me as C.
+![You can refer to me as C.](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
-<p align="left"> 
-  Hey, I am Cauã, you can refer to me as C.
-  I am studying Computer Science at WIT.
-  I am also working on a React project.
-</p>
 
-<p align="left">
-  ⚛️ Languages: <strong>JS, TS, Python, C++</strong>
-</p>
+I am studying Computer Science at WIT in Boston. Searching for an internship in order to expand my general knowledge.
 
-<p align="left">
-  🛄 Tools: <strong>Developing on Windows 11 and MacOS.</strong>
-</p>
+I am 18 years old, from brazil and I have lots of dreams to be completed.
+
+- ⚙️ Skills: JavaScript / Python / React / HTML / CSS
+- 🔭 I’m currently working on a React project. 
+- 🌱 I’m currently learning AI and Machine Learning. 
+- 📫 How to reach me: caadomaitis@gmail.com. 
