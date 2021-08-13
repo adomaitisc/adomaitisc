@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Cauã.
 #### You can refer to me as C.
-![You can refer to me as C.](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 
 I am studying Computer Science at WIT in Boston. Searching for an internship in order to expand my general knowledge.
