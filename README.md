@@ -13,6 +13,6 @@ secondary market sneaker store, doing sales, marketing, advertisement, and more.
 I have so many projects I would like to develop and the first one in line is a big
 full-stack project, using JavaScript withReact JS or Electron.
 
-- ⚙️ Developing comfortably in JavaScript, Python, Java, React, HTML, CSS.
-- 🔭 Currently working on two Java projects for the University classes.
+- ⚙️ Developing comfortably in JavaScript, React, HTML, CSS.
+- 🔭 Currently working on a fullstack project and with plans for a personal website.
 - 📫 How to reach me: adomaitisc@wit.edu. 
