@@ -1,16 +1,23 @@
-### Hey, I am Cauã,
+# Hello There
 
 
-I am from São Paulo, Brazil, studying Computer Science in Boston,
-at Wentworth Institute of Technology. Currently I am starting my sophomore year
-and decided that it is time for a Internship/Junior Role in a company.
+My name is Cauã Adomaitis.
 
-Although not having any previous work experience, I have been developing simple
-apps in Python, JavaScript, and Java for 3-4 years.
 
-I have so many projects I would like to develop and the first one in line is a big
-full-stack project, using JavaScript with React JS, Express, and MongoDB.
+I am from Brazil but I am currently studying Computer Science in Boston,
+at Wentworth Institute of Technology.
 
-- ⚙️ Developing comfortably in Java, JavaScript, React, HTML, CSS.
-- 🔭 Currently researching before start a full-stack project.
-- 📫 How to reach me: adomaitisc@wit.edu. 
+
+I have been developing for 3-4 years and now I am starting my web dev portfolio,
+with some really nice creations.
+
+
+I am always working on a project, but hit me up if you are interested in a collab
+or a custom project. Still unemployed, lol.
+
+
+### Current tech stack:
+ - Typescript
+ - ReactJS / NextJS
+ - TailwindCSS
+ - Prisma & tRPC
