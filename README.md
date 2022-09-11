@@ -17,3 +17,7 @@ or a custom project. Still unemployed, lol.
  - ReactJS / NextJS
  - TailwindCSS
  - Prisma & tRPC
+
+### Contact me at
++1 617-992-6053
+adomaitisc@wit.edu
