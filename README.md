@@ -3,21 +3,21 @@
 
 My name is Cauã Adomaitis.
 
-I am from Brazil but I am currently studying Computer Science in Boston,
-at Wentworth Institute of Technology.
+I am from São Paulo but I currently reside in Boston, MA.
 
-Developing for 3-4 years and now I am starting my web dev portfolio,
-with some really nice creations.
+I have been developing fron-end for about 2 years, developing mostly React and Next apps, but exploring other frameworks too.
 
-Always working on a project, but hit me up if you are interested in a collab
-or a custom project. Still unemployed, lol.
+Always working on a side project, but hit me up if you are interested in a collab
+or a custom project.
 
-### Current tech stack:
- - Typescript
- - ReactJS / NextJS
- - TailwindCSS
- - Prisma & tRPC
+Currently interested in Astro and Qwik.
+Currently developing a project in React + PHP, and other with Java.
+
 
 ### Contact me at
 +1 617-992-6053
 adomaitisc@wit.edu
+
+### Visit my website
+adomaitisc.com
+
