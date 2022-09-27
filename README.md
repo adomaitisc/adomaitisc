@@ -16,6 +16,7 @@ Currently developing a project in React + PHP, and other with Java.
 
 ### Contact me at
 +1 617-992-6053
+
 adomaitisc@wit.edu
 
 ### Visit my website
