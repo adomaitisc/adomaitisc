@@ -20,5 +20,5 @@ Currently developing a project in React + PHP, and other with Java.
 adomaitisc@wit.edu
 
 ### Visit my website
-adomaitisc.com
+https://adomaitisc.com
 
