@@ -2,11 +2,11 @@
 ---
 
 ```yaml
-frontend: react/nextjs, tailwindcss, redux
+frontend: react/nextjs, tailwindcss
 
-backend: node/express, go
+backend: node/express, planetscale, upstash
 
-explored: php, java, swift, python, linux
+explored: php, java, swift, python, linux, go
 ```
 
 [<kbd> <br> Visit my Website <br> </kbd>](https://adomaitisc.com)
