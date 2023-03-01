@@ -2,11 +2,11 @@
 ---
 
 ```yaml
-frontend: react/nextjs, tailwindcss
+using: react/nextjs, tailwindcss, html, planetscale, trpc, sendgrid, upstash,
 
-backend: node/express, planetscale, upstash
+liked: php/laravel, swift, java, go, python, electron, react-native
 
-explored: php, java, swift, python, linux, go
+created: scrapers, websites, webapps, apis, algorithms
 ```
 
 [<kbd> <br> Visit my Website <br> </kbd>](https://adomaitisc.com)
