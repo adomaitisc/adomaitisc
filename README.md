@@ -2,11 +2,11 @@
 ---
 
 ```yaml
-using: react/nextjs, tailwindcss, html, planetscale, trpc, sendgrid, upstash,
+main: react/nextjs, tailwindcss, planetscale/database-js, resend, zod
 
-liked: php/laravel, swift, java, go, python, electron, react-native
+experiments: php/laravel, swift, java, go, python, electron, react-native
 
-created: scrapers, websites, webapps, apis, algorithms
+creations: web-apps, websites, mobile-apps, scrapers, apis, algorithms
 ```
 
 [<kbd> <br> Visit my Website <br> </kbd>](https://adomaitisc.com)
