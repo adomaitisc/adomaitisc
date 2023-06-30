@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/adomaitisc/adomaitisc/dd8a595ecdfe9f11655aa3c8896ab5d1a5c20742/header.png)
+![image](https://github.com/adomaitisc/adomaitisc/blob/main/header.png?raw=true)
 ---
 
 ```yaml
