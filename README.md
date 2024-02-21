@@ -1,7 +1,7 @@
 ![image](https://github.com/adomaitisc/adomaitisc/blob/main/hello.png?raw=true)
 ---
 
-```json
+```yaml
 https://adomaitisc.com
 
 founder: aditis, vida
