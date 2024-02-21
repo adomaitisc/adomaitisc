@@ -2,7 +2,7 @@
 ---
 
 ```yaml
-// a little about my work
+a little about my work
 
 founder: aditis, vida
 
