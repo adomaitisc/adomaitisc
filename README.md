@@ -1,13 +1,18 @@
 ![image](https://github.com/adomaitisc/adomaitisc/blob/main/hello.png?raw=true)
 ---
 
-```yaml
-main: react/nextjs, tailwindcss, planetscale/database-js, resend, zod
+```json
+https://adomaitisc.com
 
-experiments: php/laravel, swift, java, go, python, electron, react-native, c/c++
+founder: aditis, vida
 
-creations: web-apps, websites, mobile-apps, scrapers, apis, algorithms, databases
+languages: typescript/js, java, php, go, sql, python, shell
+
+front-end: nextjs, react-native, figma, tailwindcss, expo, electron
+
+back-end: planetscale, node, django
+
+other: llm, http-requests, linux, networks, web-hacking
+
+built: mobile, desktop, web
 ```
-
-[<kbd> <br> Visit my Website <br> </kbd>](https://adomaitisc.com)
-[<kbd> <br> Get my Extension <br> </kbd>](https://inspectgpt.com)
