@@ -2,7 +2,7 @@
 ---
 
 ```yaml
-https://adomaitisc.com
+// a little about my work
 
 founder: aditis, vida
 
