@@ -2,9 +2,7 @@
 ---
 
 ```yaml
-a little about my work
-
-founder: aditis, vida
+founded: aditis, vida
 
 languages: typescript/js, java, php, go, sql, python, shell
 
