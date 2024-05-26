@@ -4,7 +4,7 @@
 ```yaml
 learning: rust, c, things-in-parallel
 
-build: web, mobile server, database, algorithms
+build: web, mobile, server, database, algorithms
 
 founded: aditis, vida
 
