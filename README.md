@@ -2,18 +2,17 @@
 ---
 
 ```yaml
-learning: rust, c, things-in-parallel
+learning: parallel-computing, mpi, openmp
 
-build: web, mobile, server, database, algorithms
+web: astro, nexts/react, planetscale, tailwindcss
 
-founded: aditis, vida
+mobile: expo/react-native, swift, nativewind
 
-languages: typescript/js, java, php, go, sql, python, shell
+server: rust, express/nodejs, planetscale, redis
 
-front-end: nextjs/react, nuxt/vue, expo/react-native, figma, tailwindcss, electron
+languages: typescript/js, java, php, rust, sql, python, shell
 
-back-end: planetscale, node, django, ross
+design: figma, photoshop
 
-other: ai/llm, ai/ml, http, linux, networks, hacking
-
+other: ai/llm, ai/ml, hacking
 ```
