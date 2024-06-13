@@ -10,7 +10,7 @@ mobile: expo/react-native, swift, nativewind
 
 server: go, rust, express/nodejs, planetscale, redis, vps
 
-languages: typescript/js, java, php, rust, sql, python, shell
+languages: typescript/js, java, php, rust, sql, python, shell, go
 
 design: figma, photoshop
 
