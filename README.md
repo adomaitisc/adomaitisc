@@ -8,7 +8,7 @@ web: astro, nexts/react, planetscale, tailwindcss
 
 mobile: expo/react-native, swift, nativewind
 
-server: go, rust, express/nodejs, planetscale, redis, vps
+server: go, rust, express/nodejs, planetscale, redis, mysql
 
 languages: typescript/js, java, php, rust, sql, python, shell, go
 
