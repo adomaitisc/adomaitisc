@@ -2,19 +2,17 @@
 ---
 
 ```yaml
-learning: parallel-computing, mpi, openmp
+languages: typescript/js, java, php, rust, python, go
 
-web: astro, nexts/react, planetscale, tailwindcss
+front-end: astro, nexts/react, tailwindcss
 
-mobile: expo/react-native, swift, nativewind
+back-end: go, rust, express/nodejs
 
-server: go, rust, express/nodejs, planetscale, redis, mysql
+mobile: expo/react-native, swift
 
-languages: typescript/js, java, php, rust, sql, python, shell, go
+data: sql, postgresql, redis
 
-design: figma, photoshop
+other: ai/llm, figma
 
-other: ai/llm, ai/ml, hacking
-
-nature: fauna, flora
+nature: fauna/flora
 ```
