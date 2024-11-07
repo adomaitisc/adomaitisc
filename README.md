@@ -16,5 +16,5 @@ design: figma, photoshop
 
 other: ai/llm, ai/ml, hacking
 
-nature
+nature: fauna, flora
 ```
