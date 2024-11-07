@@ -15,4 +15,6 @@ languages: typescript/js, java, php, rust, sql, python, shell, go
 design: figma, photoshop
 
 other: ai/llm, ai/ml, hacking
+
+nature
 ```
