@@ -13,6 +13,4 @@ mobile: expo/react-native, swift
 data: sql, postgresql, redis
 
 other: ai/llm, figma
-
-nature: fauna/flora
 ```
