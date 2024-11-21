@@ -10,7 +10,7 @@ back-end: go, rust, express/nodejs
 
 mobile: expo/react-native, swift
 
-data: sql, postgresql, redis
+data: sql/postgres, redis
 
 other: ai/llm, figma
 ```
