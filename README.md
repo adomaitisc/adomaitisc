@@ -2,7 +2,7 @@
 ---
 
 ```yaml
-languages: typescript/js, java, php, rust, python, go
+languages: typescript/js, rust, python, go
 
 front-end: astro, nexts/react, tailwindcss
 
